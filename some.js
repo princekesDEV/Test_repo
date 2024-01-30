@@ -3,7 +3,7 @@ let obj = {
   age: 18,
   address: "Shankargarh",
   phone: "main Nahi Batauga",
-  ipl_team:"Chennai Super Kings",
+  ipl_team: "Chennai Super Kings",
   favourite_player: "Mahendra Singh Dhoni",
 };
 for (let i in obj) {
