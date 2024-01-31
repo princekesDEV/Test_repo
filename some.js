@@ -19,10 +19,3 @@ for (let i = 0; i < arr.length; i++) {
     console.log(arr[i]);
   }
 }
-
-// again for new branch 
-
-let str = "Prince";
-for (let i=0;i<str.length;i++){
-  console.log(str[i]);
-}
